@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/thaonguyen.gif' title='Video Walkthrough' width='3000px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS  
@@ -35,6 +35,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 ## Notes
 
 Describe any challenges encountered while building the app.
+    Some parts in the challenges' question seem vague to me and I believe they can be better explained.
 
 ## License
 
