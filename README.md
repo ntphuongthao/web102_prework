@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/thaonguyen.gif' title='Video Walkthrough' width='3000px' alt='Video Walkthrough' />
+<img src='./assets/thaonguyen.gif' title='Video Walkthrough' width='1000px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS  
